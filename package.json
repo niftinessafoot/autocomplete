@@ -1,7 +1,7 @@
 {
   "name": "@niftinessafoot/autocomplete",
   "version": "0.2.0",
-  "description": "",
+  "description": "React component providing selectable auto-fill dropdown under a text input.",
   "private": true,
   "scripts": {
     "build": "webpack --node-env production",
@@ -20,9 +20,16 @@
   "files": [
     "dist"
   ],
-  "keywords": [],
+  "keywords": [
+    "react",
+    "component",
+    "dropdown",
+    "autocomplete",
+    "ui",
+    "forms"
+  ],
   "author": "Matthew Smith @niftinessafoot",
-  "license": "ISC",
+  "license": "MIT",
   "browserslist": [
     "defaults"
   ],
