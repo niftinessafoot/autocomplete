@@ -1,0 +1,38 @@
+.input-set {
+  display: block;
+  font: 1rem helvetica, verdana, sans-serif;
+  width: 10vw;
+}
+
+input {
+  font-family: inherit;
+  font-size: 1rem;
+  width: 100%;
+}
+
+menu {
+  border: 1px solid #ddd;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+
+  li {
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+
+  button {
+    padding: 0.25rem;
+    width: 100%;
+    margin: 0;
+    border-style: solid;
+    border-width: 0 0 1px;
+    background-color: transparent;
+    font-family: inherit;
+    font-size: 1rem;
+    text-align: left;
+    border-color: #ddd;
+  }
+}
