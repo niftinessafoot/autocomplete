@@ -2,7 +2,6 @@
   "name": "@niftinessafoot/autocomplete",
   "version": "0.2.0",
   "description": "React component providing selectable auto-fill dropdown under a text input.",
-  "private": true,
   "scripts": {
     "build": "webpack --node-env production",
     "build:library": "webpack --node-env production --env isLibrary",
